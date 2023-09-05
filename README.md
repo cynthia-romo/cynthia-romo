@@ -1,4 +1,4 @@
-### Hi, world! 👋
+### Hello, world! 👋
 
 I'm Cynthia, a dedicated software engineer with a focus on full-stack development. I recently graduated with a degree in Software Engineering and I'm eager to make my mark in the exciting world of technology.
 
